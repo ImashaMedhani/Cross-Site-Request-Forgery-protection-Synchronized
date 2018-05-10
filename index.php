@@ -53,7 +53,7 @@ p {
 
 <div class="middlePage">
 <div class="page-header">
-    <h1 class="logo">Assignment 1 <small> [ Cross-Site Request forgery protection - Syn ] </small> </h1>
+    <h1 class="logo">Assignment 1 <small> [ Cross-Site Request forgery protection - Syncronized ] </small> </h1>
 </div> 
 
 <div class="panel panel-info">
@@ -96,7 +96,7 @@ p {
     ?>
 
 <p><a href="https://www.facebook.com/Imasha,Medhani">Design and Created By </a> .ImashaMedhani  </p>
-<p><a href="https://github.com/ImashaMedhani/Cross-site-Request-Forgery-protection---Synchronized">GIT HUB PROJECT </a> @ImashaMedhani  </p>
+<p><a href="https://github.com/ImashaMedhani/Cross-Site-Request-Forgery-protection-Synchronized">GIT HUB PROJECT </a> @ImashaMedhani  </p>
 
 
 
