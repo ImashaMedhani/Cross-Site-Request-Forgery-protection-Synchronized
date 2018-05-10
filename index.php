@@ -90,15 +90,12 @@ p {
        if(isset($_COOKIE['session_id']))
             { 
                 echo '<script> var token = loadDOC("POST","server.php","csToken");  </script>'; 
-                   
-                //echo "cookie set";     
+                    
             }
     ?>
 
 <p><a href="https://www.facebook.com/Imasha,Medhani">Design and Created By </a> .ImashaMedhani  </p>
 <p><a href="https://github.com/ImashaMedhani/Cross-Site-Request-Forgery-protection-Synchronized">GIT HUB PROJECT </a> @ImashaMedhani  </p>
-
-
 
 </div>
 </body>
